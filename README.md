@@ -2,7 +2,7 @@
 
 Contents:
 
--Pandas Series
+-Pandas Series\n
 -Pandas DataFrame
 -Conditional Elements
 -Join Operations
