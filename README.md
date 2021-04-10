@@ -23,4 +23,6 @@ Contents:
 
 00_all_in_one.ipynb includes all codes below the list.
 
+Pandas cheatsheet :
+
 ![](pandas_cheat_sheet.png)
