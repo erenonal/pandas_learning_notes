@@ -1,4 +1,4 @@
-﻿Basic consepts and operations from Pandas libraries. 
+﻿Basic consepts and operations from Pandas libraries. 00_all_in_one.ipynb includes all codes below the list.
 
 Contents:
 
@@ -21,7 +21,6 @@ Contents:
 -Data Reading Operations
 
 
-00_all_in_one.ipynb includes all codes below the list.
 
 Pandas cheatsheet :
 
