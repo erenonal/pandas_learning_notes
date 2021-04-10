@@ -1,4 +1,4 @@
-﻿Basic consepts and operations from Pandas libraries. 00_all_in_one.ipynb includes all codes below the list.
+﻿Basic consepts and operations from Pandas libraries. 00_all_in_one.ipynb includes all codes below the code list.
 
 Contents:
 
